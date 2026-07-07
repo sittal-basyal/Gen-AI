@@ -2,5 +2,8 @@ with_structured_output
 
 
 - typed dictionary
+only for data representation
+typedDict just says what should be the type but doesnot validate it , i.r no errors  will be shown
+
 - pydantic
 - json_schema
