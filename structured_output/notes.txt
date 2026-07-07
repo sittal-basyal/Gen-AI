@@ -1,0 +1,6 @@
+with_structured_output
+
+
+- typed dictionary
+- pydantic
+- json_schema
